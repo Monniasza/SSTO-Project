@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Use this template to propose new features
+about: Use this template report issue
 title: "[BUG] "
 labels: bug, needs triage
 assignees: Monniasza
