@@ -1,0 +1,3 @@
+Max vpos = 2m
+Min vpos = -0.87344 m
+Fairing bottom = - 1m
