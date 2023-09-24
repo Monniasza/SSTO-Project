@@ -1,7 +1,7 @@
 {
     "NAME":     "SSTO Project",
     "ULR":      "https://github.com/Monniasza/SSTO-Project/raw/master/SSTOProject/SSTOProject.version",
-    "DOWNLOAD": "https://github.com/Monniasza/SSTO-Project/releases/download/1.3.3/SSTOProject.1.3.3.zip",
+    "DOWNLOAD": "https://github.com/Monniasza/SSTO-Project/releases/download/1.7.0/SSTOProject.1.7.0.zip",
     "GITHUB": {
         "USERNAME":          "Monniasza",
         "REPOSITORY":        "SSTO-Project",
@@ -9,7 +9,7 @@
     },
     "VERSION": {
         "MAJOR": 1,
-        "MINOR": 5,
+        "MINOR": 7,
         "PATCH": 0
     },
     "KSP_VERSION_MIN": {
