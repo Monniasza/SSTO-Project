@@ -1,14 +1,14 @@
 {
-    "NAME":     "SSTO Project",
-    "ULR":      "https://spacedock.info/mod/2417/SSTO%20Project",
-    "DOWNLOAD": "https://spacedock.info/mod/2417/SSTO%20Project",
+    "NAME":     "Ultimate Part Converter (formerly SSTO Project LPG)",
+    "ULR":      "https://spacedock.info/mod/3022/Ultimate%20Part%20Converter%20(formerly%20SSTO%20Project%20LPG)",
+    "DOWNLOAD": "https://spacedock.info/mod/3022/Ultimate%20Part%20Converter%20(formerly%20SSTO%20Project%20LPG)",
     "GITHUB": {
         "USERNAME":          "Monniasza",
         "REPOSITORY":        "SSTO-Project",
         "ALLOW_PRE_RELEASE": false
     },
     "VERSION": {
-        "MAJOR": 2,
+        "MAJOR": 3,
         "MINOR": 0,
         "PATCH": 0
     },
